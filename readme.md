@@ -41,4 +41,4 @@ zomato-rating-ml/
 Pull requests are welcome. For major changes, open an issue first.
 
 ## 📧 Contact
-For queries, reach me at [priyanshurawat315@gmail.com](mailto:priyanshurawat315@gmail.com)
+For queries, reach me at [priyanshurawat315@gmail.com](mailto:priyanshurawat315@gmail.com)  
