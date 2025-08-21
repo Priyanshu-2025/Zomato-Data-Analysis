@@ -17,7 +17,7 @@ zomato-rating-ml/
 ## 🚀 Setup Instructions
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YourUsername/Zomato-Data-Analysis.git
+   git clone https://github.com/Priyanshu-2025/Zomato-Data-Analysis.git
    cd zomato-rating-ml
    ```
 
